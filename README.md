@@ -1,1 +1,1 @@
-# Concord: Stable and fault-tolerant decentralized WAN traffic engineering
+# CONCORD: Stable and fault-tolerant decentralized WAN traffic engineering
